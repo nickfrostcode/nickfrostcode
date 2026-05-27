@@ -102,10 +102,14 @@ const developer = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-xpmd.vercel.app/api?username=nickfrostcode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1&card_width=260&custom_title=GitHub%20Stats" height="150" width="260" alt="stats graph" />
-  <img src="https://github-readme-streak-stats-ashen-sigma.vercel.app/?user=nickfrostcode&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3&short_numbers=true&card_width=260" height="150" width="260" alt="streak graph" />
-  <img src="https://github-readme-stats-xpmd.vercel.app/api/top-langs?username=nickfrostcode&locale=en&hide_title=false&layout=compact&card_width=260&langs_count=10&theme=tokyonight&hide_border=true&order=2&count_private=true&hide=HTML" height="150" width="260" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nickfrostcode&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity%20Graph&hide_border=true" width="915" alt="activity-graph graph" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><img src="https://github-readme-stats-xpmd.vercel.app/api?username=nickfrostcode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph" /></td>
+      <td><img src="https://github-readme-streak-stats-ashen-sigma.vercel.app/?user=nickfrostcode&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3&short_numbers=true" height="150" alt="streak graph" /></td>
+      <td><img src="https://github-readme-stats-xpmd.vercel.app/api/top-langs?username=nickfrostcode&locale=en&hide_title=false&layout=compact&card_width=260&langs_count=10&theme=tokyonight&hide_border=true&order=2&count_private=true&hide=HTML" height="150" alt="languages graph" /></td>
+    </tr>
+  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nickfrostcode&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity%20Graph&hide_border=true" width="800" alt="activity-graph graph" />
 </div>
 
 ---
