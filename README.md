@@ -114,7 +114,7 @@ const developer = {
 
 <div align="left">
 
-  [![Download Resume](https://img.shields.io/badge/Download%20Resume-00D4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Nicholas_Benson_Resume.pdf)
+  [![View Resume](https://img.shields.io/badge/View%20Resume-00D4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Nicholas_Benson_Resume.pdf)
 
 </div>
 <!--
