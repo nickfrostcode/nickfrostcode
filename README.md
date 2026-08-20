@@ -1,23 +1,23 @@
 # <img src="./assets/logo.png" width="30"/> Hey there! I'm Nicholas Benson
-> *"Nick Frost❄️"* • CEO of Nick Frost Innovations
+> *"Nick Frost❄️"* • Full-Stack Software Developer & Software Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+Developer+%2B+Graphic+Designer;Computer+Scientist;Pioneering+the+Future%2C+Today!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Software+Developer;Computer+Scientist+%2B+Software+Engineer;Building+Scalable+Solutions+for+the+Future!" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🎨 About Me
-I'm a **Creative Technologist** who bridges the gap between stunning visual design and seamless user experiences. With a passion for both pixels and code, I transform creative concepts into interactive digital realities.
+## 💻 About Me
+I'm a **Full-Stack Software Developer & Engineer** focused on designing, building, and maintaining modern web applications from concept to deployment. I specialize in developing scalable, reliable, and intuitive software that solves real-world problems.
 
 ```javascript
 const developer = {
   name: "Nicholas Benson",
-  devName: "Nick Frøst❄️",
-  roles: ["Frontend Developer", "Graphic Designer", "Computer Scientist"],
-  location: "📍 Location-Independent",
-  currentFocus: "Merging timeless design with modern frontend development to deliver polished, accessible products.",
-  funFact: "My brain often tries to console.log() real-world observations, especially when I'm deep in research."
+  devName: "Nick Frost❄️",
+  roles: ["Full-Stack Developer", "Software Engineer", "Computer Scientist"],
+  location: "📍 Nigeria • Open to Relocation, Remote & Freelance",
+  currentFocus: "Architecting scalable full-stack applications, real-time backend systems, and intuitive user experiences.",
+  funFact: "My brain often tries to console.log() real-world observations, especially when debugging complex systems."
 };
 ```
 
@@ -25,78 +25,83 @@ const developer = {
 
 ## 🚀 What I'm Currently Working On
 
-- 🔭 Building scalable design systems and component libraries
-- 🌱 Deepening expertise in **TypeScript**, **React**, and **Motion/Animation**
-- 🎯 Exploring the intersection of **AI tools** and **frontend development**
-- 💡 Crafting brand identities and UI/UX experiences for startups
+- Building responsive full-stack applications with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**
+- Developing robust backend APIs and services using **Node.js**, **Fastify**, and **Go (Golang)**
+- Designing secure relational database structures with **PostgreSQL** & **Supabase**
+- Leading tech initiatives as **GDG Co-Lead** & **CS Department President** at FUOYE
 
 ---
 
-## 🛠️ Tech Stack & Design Tools
+## 🛠️ Tech Stack & Engineer Tools
 
 ### 💻 Frontend Development
 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🎨 Design & Creative Tools
+### ⚙️ Backend & Database
 
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00A86B?style=for-the-badge&logo=coreldraw&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)
 
-### ⚡ Tools & Workflow
+### ⚡ Tools, DevOps & Testing
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
 
 ## 🎯 What I Do
 
-**💻 Development**
-- Responsive web applications
-- Interactive user interfaces
-- Performance optimization
-- Accessibility implementation
+**💻 Frontend & Web Engineering**
+- Responsive web applications with React & Next.js
+- Component architecture with TypeScript & Tailwind CSS
+- Accessibility (a11y) & frontend performance optimization
 
-**🎨 Design**
-- Brand identity & visual systems
-- UI/UX design for web & mobile
-- Print design & marketing materials
-- Prototyping & wireframing
+**⚙️ Backend & Systems Architecture**
+- High-performance RESTful APIs & microservices (Node.js / Fastify / Go)
+- Server-side validation & secure authentication workflows
+- WebSockets, Webhooks, and Progressive Web App (PWA) development
 
-**🚀 Specialties**
-- Design systems & component libraries
-- Animation & micro-interactions
-- Cross-browser compatibility
-- Modern CSS techniques
+**🗄️ Database & Security**
+- Database design, schema modeling, & migrations (PostgreSQL)
+- Supabase integrations & Row-Level Security (RLS) policies
+- Multi-tenant architecture & data isolation
 
-<!-- ---
+---
 
 ## 🏆 Featured Projects
 
-> *"Great software is built at the intersection of design and engineering."*
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Enque** | Digital queue management platform with offline-first support & real-time tracking | Next.js, React, Node.js, WebSockets | [Live Demo →](https://enque.live) |
+| **NicksPay** | Multi-tenant payment platform built for student departments & organizations | Next.js, Node.js, PostgreSQL | [Live Demo →](https://nickspay.com.ng) |
+| **Ttenda** | Location-based smart attendance system reducing attendance fraud through automated records | React, TypeScript, Node.js | [Live Demo →](https://ttenda.vercel.app) |
+| **UniScore** | AI screening calculator automating university admission score computations | React, Node.js, AI Engine | [Live Demo →](https://uniscore.vercel.app) |
 
-| Project | Description | Tech | Live |
-|---------|-------------|------|------|
-| 🧮 **Fouye Calc** | A feature-rich calculator app | HTML, CSS, JS | [View →](https://fouye-calc.vercel.app) |
-| *(more coming soon)* | Stay tuned for updates! | — | — |
+---
 
-**📌 Tip:** Pin your best repositories below this section on your GitHub profile using the **"Customize your pins"** option.--> 
+## 🏅 Leadership & Recognition
+
+- **Computer Science Developer of the Year** – Federal University Oye-Ekiti (2026)
+- **Google Developer Group (GDG) Co-lead** – FUOYE (2026)
+- **President**, Department of Computer Science FUOYE – FUOYE (2026)
+
 ---
 
 ## 📈 GitHub Stats
@@ -113,27 +118,12 @@ const developer = {
 ## 📄 Resume
 
 <div align="left">
-
-  [![View Resume](https://img.shields.io/badge/View%20Resume-00D4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Nicholas_Benson_Resume.pdf)
-
+  <a href="./assets/Nicholas_Benson_Developer_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-00D4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
+  </a>
 </div>
-<!--
-> **📁 How to add your resume to this repo:**
-> 1. Create an `assets/` folder in the root of your `nickfrostcode` profile repository (the repo named exactly after your username).
-> 2. Export your CV/resume as a PDF and name it `Nicholas_Benson_Resume.pdf`.
-> 3. Place it inside the `assets/` folder: `assets/Nicholas_Benson_Resume.pdf`.
-> 4. Also place your logo image there: `assets/logo.png` — this replaces the external URL used at the top of this README.
-> 5. Commit and push. The download button above will work automatically.
->
-> **Final folder structure:**
-> ```
-> nickfrostcode/          ← your profile repo (same name as username)
-> ├── README.md
-> └── assets/
->     ├── logo.png
->     └── Nicholas_Benson_Resume.pdf
-> ```
--->
+
+---
 
 ## 📫 Let's Connect!
 
@@ -141,38 +131,30 @@ const developer = {
   <a href="mailto:bensonnicholas206@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
+  <a href="https://www.linkedin.com/in/nickfrostcode" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
   <a href="https://wa.me/message/VQDOCBOCB&MMK1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
   <a href="https://codepen.io/nickfrostcode" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo" />
   </a>
-  <a href="https://facebook.com/profile.php?id=100076928378178" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
-  <a href="https://www.instagram.com/nickfrostcode/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://x.com/nickfrostcode" target="_blank">
+  <!-- <a href="https://x.com/nickfrostcode" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
+  </a> -->
   <a href="https://t.me/nickfrostcode" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/nickfrostcode" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.behance.net/bensonnicholas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo" />
   </a>
 </div>
 
 ## 💼 Open to Opportunities
 
-I'm available for **freelance projects**, **collaborations**, and **full-time roles**. If you have an exciting project that needs both design thinking and solid engineering, let's talk!
+I'm available for **full-time engineering roles**, **freelance projects**, and **technical collaborations**. If you have a project that needs solid full-stack engineering, let me know!
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-00D4FF?style=for-the-badge&logo=handshake&logoColor=white)](mailto:bensonnicholas206@gmail.com)
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-001014?style=for-the-badge&logo=firefoxbrowser&logoColor=00D4FF)](https://github.com/nickfrostcode/)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-001014?style=for-the-badge&logo=firefoxbrowser&logoColor=00D4FF)](https://nickfrost.vercel.app/dev)
+
 ---
 
 <div align="center">
