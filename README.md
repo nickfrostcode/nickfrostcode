@@ -118,7 +118,7 @@ const developer = {
 ## 📄 Resume
 
 <div align="left">
-  <a href="./assets/Nicholas_Benson_Developer_Resume.pdf" target="_blank">
+  <a href="https://nicholasbenson.cv/resumes/Nicholas_Benson_Developer_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-00D4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
   </a>
 </div>
